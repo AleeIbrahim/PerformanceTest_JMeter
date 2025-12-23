@@ -4,7 +4,7 @@
 This JMeter test plan simulates the end-to-end purchase workflow for the JPetStore demo application. It is designed to validate the performance and functionality of the online shopping process under load.
 
 ## Test Scenarios
-The plan includes two independent user groups (User 1–2 and User 3–4), each performing the following steps:
+The plan includes 5 independent user groups (User 1–2, User 3–4, etc.), each performing the following steps:
 
 1. **Login Setup** – CSV Data Set Config for user credentials
 2. **Home Page** – Access JPetStore Home Page
@@ -17,13 +17,9 @@ The plan includes two independent user groups (User 1–2 and User 3–4), each 
 
 Each user group includes a **Constant Timer** to control pacing between iterations.
 
-## Files Included
-- `image.png` – Screenshot of the JMeter test plan structure
-
 ## Purpose
-- Validate the purchase flow under simulated user load.
-- Ensure correct data handling via CSV login sets.
-- Measure response times for critical user actions.
+- Validate the purchase flow under simulated user load; where the load is gradually increased by 2 users each 3 minutes, till it reaches 10 concurrent users.
+- Measure response times for common user actions.
 
 ## Notes
 - Uses CSV-based login data for parameterization.
