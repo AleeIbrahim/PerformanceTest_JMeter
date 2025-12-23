@@ -1,0 +1,11 @@
+username,password,paymentForm,billingForm,cardType,creditCard,expiryDate,billToFirstName,billToLastName,billAddress1,billAddress2,billCity,billState,billZip,billCountry
+john_doe,Pass1234,TRUE,TRUE,Visa,1.00E+15,19-Dec,John,Doe,123 Main Street,Apt 4C,Austin,TX,73301,United States
+jane_smith,SimplePass1,TRUE,TRUE,Visa,1.00E+15,19-Dec,Jane,Smith,456 Oak Avenue,Apt 4B,Chicago,IL,60601,United States
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

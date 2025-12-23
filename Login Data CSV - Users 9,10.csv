@@ -1,0 +1,9 @@
+username,password,paymentForm,billingForm,cardType,creditCard,expiryDate,billToFirstName,billToLastName,billAddress1,billAddress2,billCity,billState,billZip,billCountry
+sara_clark,ClarkPass4,TRUE,TRUE,Visa,1.00E+15,19-Dec,Sara,Clark,147 Birch Court,Apt 5,Phoenix,AZ,85001,United States
+david_lee,LeePass890,TRUE,TRUE,Visa,1.00E+15,19-Dec,David,Lee,258 Cedar Way,Apt 6,Atlanta,GA,30301,United States
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
